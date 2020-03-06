@@ -1,7 +1,0 @@
-Parameter,Value,Interpretation
-n0,unknown,Initial number of cases at time 0. Used to determine the pace of the outbreak. Best to leave this unknown
-b,0.11,Growth rate of the epidemic. A value of 0.1 will lead to a weekly doubling. Make unknown if there is enough data
-L1,5.5,Mean delay before ILIs present to the surveillance system.
-L2,7,Mean delay before pneumonias present to the surveillance system.
-p1,0.017,Proportion of cases that enter the ILI surveillance
-p2,0.19,Proportion of cases that develop pneumonia and enter surveillance
